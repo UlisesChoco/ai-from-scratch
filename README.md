@@ -7,7 +7,7 @@ A simple Java application I created to experiment with building AI from scratch,
 1. Clone the repository:
 
    ```
-   git clone https://github.com/ulises-justo-saucedo/ai-from-scratch/
+   git clone https://github.com/chocolatada21/ai-from-scratch/
    ```
 
 2. Open the project in any Java IDE and run it.
