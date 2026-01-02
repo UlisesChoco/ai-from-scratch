@@ -1,9 +1,9 @@
 import java.util.Random;
-public class SimpleNN {
+public class Neuron {
     //first and only neuron ;u;
     public float weight;
     public float bias;
-    public SimpleNN() {
+    public Neuron() {
         Random random = new Random();
         this.weight = random.nextFloat(-1, 1);
         this.bias = 0;
